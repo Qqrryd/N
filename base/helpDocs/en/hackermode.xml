@@ -1,0 +1,50 @@
+<title>HackerMode</title>
+
+<section title="commands">
+    <line command="run">run any file</line>
+    <line command="del">delete files or folders</line>
+    <line command="size">calculate the size of a file or folder</line>
+    <line command="lsmap">Show files and folders as tree</line>
+</section>
+
+<section title="shortcuts">
+    <line command="c">clean terminal screen</line>
+    <line command="archive">Create an archive for a group of files inside a specific directory</line>
+    <line command="unarchive">unpack archive for specific files</line>
+    <line command="brightness">control screen brightness</line>
+    <line command="cool-screen">Increase the blue color of the screen</line>
+    <line command="eye-protect">protect eyes, reduce blue light</line>
+    <line command="reset-filter">restore screen color to normal</line>
+    <line command="hide">Hide File</line>
+    <line command="unhide">show file</line>
+</section>
+
+<section title="tools">
+    <line command="exploit-shell">exploit the victim's command-line</line>
+    <line command="info-file">Show information about files</line>
+    <line command="shell-web">site control</line>
+    <line command="lib-installer">Python Libraries Installer</line>
+    <line command="social-media">search for anyone's name</line>
+    <line command="shell-game">snake game</line>
+    <line command="aioc">transfer via network</line>
+    <line command="bfx">tool for checking command-line programs from</line>
+    <line command="">buffer overflow vulnerability.</line>
+    <line command="vss"></line>
+</section>
+
+<section title="simple tools">
+    <line command="view-source">Show the code with the colors</line>
+    <line command="encrypt-file">Encrypt any file</line>
+    <line command="pyprivate">encrypt any Python file</line>
+    <line command="chmac">change MAC address</line>
+    <line command="networ-info">to show network information</line>
+    <line command="scan">Check if the ports are</line>
+    <line command="">open in network</line>
+    <line command="kivy">kivy helper</line>
+    <line command="text-image">Convert an image to text</line>
+</section>
+
+<section title="system">
+    <line command="exit">stop the tool</line>
+    <line command="main">go to the main mode</line>
+</section>

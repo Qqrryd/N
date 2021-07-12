@@ -1,0 +1,11 @@
+<title>{{ TOOL_NAME }}</title>
+
+<section title="commands">
+        <line command="size">اكتب هنا اسم الملف وسيتم عرظ الحجم</line>
+</section>
+
+<section title="examples">
+        <line command="size">filename.py</line>
+        <line command="size">filename.txt</line>
+        <line command="size">filename.png</line>
+</section>

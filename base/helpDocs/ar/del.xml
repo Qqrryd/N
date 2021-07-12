@@ -1,0 +1,20 @@
+<title>del</title>
+ 
+<section title="optional arguments">
+	<line command="-h">تحديد المستندات المخفية</line>
+	<line command="-c">تنظيف السلة من الملفات المؤقتة</line>
+	<line command=" *">حذف جميع المستندات فى المسار الحالى</line>
+</section>
+
+<section title="usage">
+	<line command="del -h -c">تنظيف السلة من جميع المستندات</line>
+	<line command="del -c">تنظيف السلة مع ترك المستندات المخفية</line>
+	<line command="del -h *">حذف جميع المستندات</line>
+</section>
+
+<section title="examples">
+	<line command="del file">حذف الملفات المعطاة</line>
+	<line command=""></line>
+	<line command="del file.py"></line>
+	<line command="del folder"></line>
+</section>
